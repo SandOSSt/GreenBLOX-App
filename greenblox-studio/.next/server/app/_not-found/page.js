@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0fuwtu1._.js")
+R.c("server/chunks/ssr/0ut2_0rck-mq._.js")
+R.c("server/chunks/ssr/0ut2_next_dist_esm_build_templates_app-page_0mf1ikh.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0afo12r._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0j5xx8h._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0qqcx1f._.js")
+R.c("server/chunks/ssr/0ut2_next_dist_client_components_0alh5pk._.js")
+R.c("server/chunks/ssr/0ut2_next_dist_client_components_builtin_forbidden_01yo-_0.js")
+R.c("server/chunks/ssr/0ut2_next_dist_client_components_builtin_unauthorized_0exe1hm.js")
+R.c("server/chunks/ssr/greenblox-studio__next-internal_server_app__not-found_page_actions_02aj40q.js")
+R.m(55759)
+module.exports=R.m(55759).exports

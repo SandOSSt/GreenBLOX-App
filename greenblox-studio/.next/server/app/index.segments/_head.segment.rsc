@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[46874,["/_next/static/chunks/13gpidcvqj.-9.js","/_next/static/chunks/0zsuzc94x1jfj.js"],"ViewportBoundary"]
+3:I[46874,["/_next/static/chunks/13gpidcvqj.-9.js","/_next/static/chunks/0zsuzc94x1jfj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2196,["/_next/static/chunks/13gpidcvqj.-9.js","/_next/static/chunks/0zsuzc94x1jfj.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GreenBlox Studio"}],["$","meta","1",{"name":"description","content":"GreenBlox is a sandbox game engine and editor shell with real-time WebGL rendering, ECS runtime, Lua scripting, physics, and project persistence."}],["$","link","2",{"rel":"icon","href":"/favicon.svg"}],["$","link","3",{"rel":"apple-touch-icon","href":"/favicon.svg"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nOiDQFaOF7C93_zY9UJUr"}

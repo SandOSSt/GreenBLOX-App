@@ -1,0 +1,17 @@
+{
+  "name": "greenblox-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GreenBlox — лаунчер + студия + движок (единый запуск)",
+  "scripts": {
+    "dev": "concurrently -k -n STUDIO,LAUNCHER -c magenta,green \"npm run dev --prefix greenblox-studio\" \"npm run dev --prefix \\\"greenblox launcher\\\"\"",
+    "dev:studio": "npm run dev --prefix greenblox-studio",
+    "dev:launcher": "npm run dev --prefix \"greenblox launcher\"",
+    "dev:engine": "npm run dev --prefix GreenBloxENGINE",
+    "build": "npm run build --prefix greenblox-studio && npm run build --prefix \"greenblox launcher\"",
+    "start": "concurrently -k -n STUDIO,LAUNCHER -c magenta,green \"npm run start --prefix greenblox-studio\" \"npm run preview --prefix \\\"greenblox launcher\\\" -- --port 5173\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
